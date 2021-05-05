@@ -1,4 +1,4 @@
-# assignment_tindercarousel\
+# assignment_tindercarousel
 This is a flutter application to showcase the swipe feature of Tinder like app. It is developed for an assignment and has only functional features intended to complete the assignment.
 
 Features
